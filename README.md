@@ -1,4 +1,4 @@
-# koinx_exchange
+# flutter-starter
 
 A new Flutter project.
 
